@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm M Talha</h1>
 <h3 align="center">A passionate Android and Flutter Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zenara1n&label=Profile%20views&color=0e75b6&style=flat" alt="zenara1n" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=talha7867&label=Profile%20views&color=0e75b6&style=flat" alt="talha7867" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zenara1n" alt="zenara1n" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talha7867" alt="talha7867" /></a> </p>
 
 - 🔭 I’m currently working on Varskart
 
